@@ -1,6 +1,6 @@
 ### Hi, I'm Gamal 👋
 <hr>
-<img src="./banner.png" />
+<img src="https://github.com/Gamalliel19/Gamalliel19/blob/master/banner.png">
 
 <p>
 I'm a student from Institute Technology of PLN who is passionate about making web and mobile applications, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Flutter(Learn), Swift(Learn), and MySQL. I also like to designing some applications and implement it to a real apps.
