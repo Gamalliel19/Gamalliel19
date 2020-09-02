@@ -1,4 +1,4 @@
-### Hi, I'm Gamal 👋
+# Hi, I'm Gamal 👋
 <hr>
 <img src="https://github.com/Gamalliel19/Gamalliel19/blob/master/banner.png">
 
