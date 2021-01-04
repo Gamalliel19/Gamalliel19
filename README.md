@@ -12,6 +12,11 @@ I'm a student from Institute Technology of PLN who is passionate about making we
 - Tinkering with interactions on <a href="https://codepen.io/gamalliel19"> Codepen</a> 
 - Visit My <a href="https://www.linkedin.com/feed/"> LinkedIN </a>
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+</p>
+
 <!--
 **Gamalliel19/Gamalliel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
