@@ -3,7 +3,7 @@
 <img src="https://github.com/Gamalliel19/Gamalliel19/blob/master/banner.png">
 
 <p>
-I'm a student from Institute Technology of PLN who is passionate about making web and mobile applications, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Flutter(Learn), Swift(Learn), and MySQL. I also like to designing some applications and implement it to a real apps.
+I am an informatics engineering student at the Institut Teknologi PLN Jakarta who is passionate about making web and mobile applications. For now, I am focusing on iOS app development using Swift. I spent many hours writing and learning software applications and share my code through this open-source platform so you can take a look at my code. I also like to design some of my imagination apps and implement them into a real app for best practice.
 </p>
 
 ## Find Me On another platform!
