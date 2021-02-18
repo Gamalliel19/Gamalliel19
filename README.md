@@ -10,7 +10,7 @@ Currently, I have been learning the Swift programming language for 2 months, I h
 </p>
 
 ## Find Me On another platform!
-- See My <a href="https://gamalliel19.github.io/Gamalliel-Portfolio/"> Website </a>
+- See My <a href="https://gamalliel19.github.io/gmllshrn/"> Website </a>
 - Follow me on <a href="https://www.instagram.com/gmllshrn/" > Instagram </a>
 - Tinkering with interactions on <a href="https://codepen.io/gamalliel19"> Codepen</a> 
 - Visit My <a href="https://www.linkedin.com/feed/"> LinkedIN </a>
