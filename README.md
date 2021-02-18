@@ -1,12 +1,9 @@
 # Hi, I'm Gamal 👋
 <hr>
-<img src="https://github.com/Gamalliel19/Gamalliel19/blob/master/BannerProfile.png">
 
 <p>
-I am an informatics engineering student at the Institut Teknologi PLN Jakarta who is passionate about making web and mobile applications. For now, I am focusing on iOS app development using Swift. I spent many hours writing and learning software applications and share my code through this open-source platform so you can take a look at my code. I also like to design some of my imagination apps and implement them into a real app for best practice.
-</br>
-</br>
-Currently, I have been learning the Swift programming language for 2 months, I have also created several applications to improve my learning process. 
+I am an informatics engineering student at the Institut Teknologi PLN Jakarta who is passionate about making web and mobile applications. I spent many hours writing and learning software applications and share my code through this open-source platform so you can take a look at my code. I also like to design some of my imagination apps and implement them into a real app for best practice.
+</br> 
 </p>
 
 ## Find Me On another platform!
