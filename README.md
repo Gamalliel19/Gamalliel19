@@ -7,7 +7,7 @@ I am an informatics engineering student at the Institut Teknologi PLN Jakarta wh
 </p>
 
 ## Find Me On another platform!
-- See My <a href="https://gamalliel19.github.io/gmllshrn/"> Website </a>
+- See My <a href="https://gamalliel19.github.io/gmllshrn-portfolio/"> Website </a>
 - Follow me on <a href="https://www.instagram.com/gmllshrn/" > Instagram </a>
 - Tinkering with interactions on <a href="https://codepen.io/gamalliel19"> Codepen</a> 
 - Visit My <a href="https://www.linkedin.com/feed/"> LinkedIN </a>
