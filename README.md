@@ -2,10 +2,8 @@
 <hr>
 
 <p>
-I am currently a student studying informatics engineering at the Institut Teknologi PLN Jakarta. I am also a student at Bangkit Academy led by Google, Gojek, Tokopedia, and Traveloka studying the cloud computing learning path.
-<br>
-I have passionate about designing and building digital products. I developed websites using HTML, CSS, and JavaScript. I also like to design some of my imagination apps and implement them into a real app for best practice, prioritizing user experience by making good and friendly user interfaces.
-<br>
+I am currently a student studying informatics engineering at the Institut Teknologi PLN Jakarta. I am also a student at Bangkit Academy led by Google, Gojek, Tokopedia, and Traveloka studying the cloud computing learning path. I have passionate about designing and building digital products. I developed websites using HTML, CSS, and JavaScript. I also like to design some of my imagination apps and implement them into a real app for best practice, prioritizing user experience by making good and friendly user interfaces.
+<br> <br>
 Specialities: User Interface Design, User Experience, Product Design, Front-End Web Development, and Cloud especially Google Cloud Platform.
 </br> 
 </p>
