@@ -2,10 +2,11 @@
 <hr>
 
 <p>
-I am currently a student studying informatics engineering at the Institut Teknologi PLN Jakarta. I am also a student at Bangkit Academy led by Google, Gojek, Tokopedia, and Traveloka studying the cloud computing learning path. I have passionate about designing and building digital products. I developed websites using HTML, CSS, and JavaScript. I also like to design some of my imagination apps and implement them into a real app for best practice, prioritizing user experience by making good and friendly user interfaces.
+Creative front-end web developer who is passionate about blending the art of design with the skill of programming to design and build all aspects of the user experience and user interface. 
 <br> <br>
-Specialities: User Interface Design, User Experience, Product Design, Front-End Web Development, and Cloud especially Google Cloud Platform.
-</br> 
+Interests: Front-End Web Development
+</br> </br> 
+Love to type with: React JS, Graph QL, Mongo DB, MySQL, Express, Node JS, Supabase.
 </p>
 
 ## Find Me On another platform!
