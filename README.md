@@ -6,7 +6,7 @@ Creative front-end web developer who is passionate about blending the art of des
 <br> <br>
 Interests: Front-End Web Development
 </br> </br> 
-Love to type with: React JS, Graph QL, Mongo DB, MySQL, Express, Node JS, Supabase.
+Love to type with: React JS, Graph QL, MySQL, Express, Node JS, & TypeScript.
 </p>
 
 ## Find Me On another platform!
