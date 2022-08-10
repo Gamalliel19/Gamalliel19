@@ -6,7 +6,9 @@ Creative front-end web developer who is passionate about blending the art of des
 <br> <br>
 Interests: Front-End Web Development
 </br> </br> 
-Love to type with: React JS, Graph QL, MySQL, Express, Node JS, & TypeScript.
+Love to type with: TypeScript and JavaScript
+</br> </br> 
+Favorite tech stacks: React JS, Next JS, MySQL, Node JS, Express, GraphQL, Apollo, Sequelize, Styled-Components, Emotion
 </p>
 
 ## Find Me On another platform!
